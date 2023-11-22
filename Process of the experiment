@@ -4,20 +4,36 @@ DESIGN PATTERN EVALUATION
 
 1. MOTIVATION FOR THE EXPERIMENT
 
-    In the evaluation of this particular context, employing traditional methods proves challenging. The experiment is
-designed to function as an objective analysis, focusing on specifically chosen parameters. This investigation is
-centered on proving a comprehensive understanding of the tangible advantages, or lack thereof, associated with the
-utilization of design patterns. In essence, the article seeks to determine whether the use of design patterns genuinely
-yields benefits.
-    During this experiment we will take into consideration the following aspects: clean coding, the length of the code
-(measured by number of lines written) and the time of execution.
-
+    In the evaluation of this specific context, the application of traditional methods proves to be challenging. The
+experiment is meticulously designed to serve as an objective analysis, focusing on carefully selected parameters. The
+primary objective of this investigation is to establish a comprehensive understanding of the tangible advantages, or
+potential lack thereof, associated with the integration of design patterns. Essentially, this article aime to determine
+whether the utilization of design patterns genuinely yields benefits.
 
 2. TYPE OF DATA PROCESSED
 
+    In our pursuit of obtaining a thorough understanding of the efficacy of design patterns, our investigation utilizes
+a diverse range of data types. We begin by examining actual code snippets from projects, differentiating between those
+implementing design patterns and those that do not. Following this, we explore quantitative performance metrics, such as
+execution time and memory usage, providing observable standards for determining the efficiency gains attributed to the
+adoption of design patterns. Additionally, a detailed examination of the software evolution history sheds light on the
+temporal dynamics of design pattern incorporation, offering a chronological narrative of their introduction,
+modifications, or removal. This analytical framework is further enriched by project metrics, including measures such as
+lines of code, contributing to a comprehensive understanding of the structural attributes of the projects.
 
 3. TYPE OF EXPERIMENT USED AND RESULT VALIDATION
 
+    The experiment primarily focused on the application of various design patterns within a
+controlled coding environment. The design patterns chosen for investigation included commonly utilized structures such
+as Factory Method, Observer, and Decorator patterns. The experiment involved the development of parallel code segments,
+one integrating design patterns and the other abstaining from their use. We examined vital software metrics, including
+code readability, modularity, and execution time. To ensure the credibility of our findings, we subjected the code to
+rigorous testing, encompassing both unit testing and performance evaluation.
 
 4. RESULT INTERPRETATION
 
+    As we unpack the results of our experiment exploring design patterns, we carefully analyzed the information we
+collected. The data gathered from the parallel code segments, one incorporating various design patterns and the other
+devoid of such structural elements, underwent a comprehensive analysis. The idea was to dig deeper into the day-to-day
+implications of using design patterns in actual software development. The interplay between these elements was carefully
+interpreted to draw meaningful insights into the practical implications of design pattern utilization.
