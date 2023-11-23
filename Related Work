@@ -1,0 +1,21 @@
+    In this chapter, we review and contextualize existing research and studies related to the impact and application
+of design patterns in software development. Understanding the broader landscape of design patterns research provides
+a foundation for our own investigation and offers insights into the evolving trends within the field.
+
+    1. Historical Context of Design Patterns:
+    To comprehend the trajectory of design patterns in software engineering, it is crucial to delve into the
+historical evolution of this concept. The seminal work of the "Gang of Four" (Erich Gamma, Richard Helm, Ralph Johnson,
+and John Vlissides) laid the groundwork for the formalization of design patterns in their influential book, "Design
+Patterns: Elements of Reusable Object-Oriented Software" also written by "Gang of Four".
+
+    2. Studies on Clean Coding Principles:
+    Several studies have explored the relationship between design patterns and clean coding principles. Notable
+research in this domain has investigated how the application of design patterns contributes to code readability,
+maintainability, and overall adherence to clean coding standards. This line of work aligns with our interest in
+understanding the impact of design patterns on code cleanliness.
+
+    Conclusion:
+    This chapter concludes by synthesizing the key findings from related work and positioning our study within the
+broader context of design patterns research. By critically examining previous studies, we lay the groundwork for our
+unique contribution to the field, emphasizing how our investigation extends existing knowledge and addresses specific
+gaps in the current literature. (Still needs some more research)

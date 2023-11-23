@@ -16,17 +16,15 @@ whether the utilization of design patterns genuinely yields benefits.
 a diverse range of data types. We begin by examining actual code snippets from projects, differentiating between those
 implementing design patterns and those that do not. Following this, we explore quantitative performance metrics, such as
 execution time and memory usage, providing observable standards for determining the efficiency gains attributed to the
-adoption of design patterns. Additionally, a detailed examination of the software evolution history sheds light on the
-temporal dynamics of design pattern incorporation, offering a chronological narrative of their introduction,
-modifications, or removal. This analytical framework is further enriched by project metrics, including measures such as
+adoption of design patterns. This analytical framework is further enriched by project metrics, including measures such as
 lines of code, contributing to a comprehensive understanding of the structural attributes of the projects.
 
 3. TYPE OF EXPERIMENT USED AND RESULT VALIDATION
 
-    The experiment primarily focused on the application of various design patterns within a
-controlled coding environment. The design patterns chosen for investigation included commonly utilized structures such
-as Factory Method, Observer, and Decorator patterns. The experiment involved the development of parallel code segments,
-one integrating design patterns and the other abstaining from their use. We examined vital software metrics, including
+    The experiment primarily focused on the application of various design patterns within a controlled coding
+environment. The design patterns chosen for investigation included commonly utilized structures such as Factory
+Method, Observer, and Decorator patterns. The experiment involved the development of parallel code segments, one
+integrating design patterns and the other abstaining from their use. We examined vital software metrics, including
 code readability, modularity, and execution time. To ensure the credibility of our findings, we subjected the code to
 rigorous testing, encompassing both unit testing and performance evaluation.
 
